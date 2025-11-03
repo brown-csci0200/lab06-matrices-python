@@ -1,4 +1,3 @@
-# test_admissions.py
 import pytest
 from admissions import Admissions
 from labeled_matrix import LabeledMatrix

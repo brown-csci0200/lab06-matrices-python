@@ -1,4 +1,3 @@
-# labeled_matrix.py
 from typing import List, Optional
 import csv
 
