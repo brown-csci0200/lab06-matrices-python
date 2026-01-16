@@ -1,0 +1,38 @@
+# Autosave files
+*~
+\#*#
+.\#*
+
+# Compiled class file
+*.class
+out/
+
+.idea/vcs.xml
+.idea/misc.xml
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+.DS_Store
+
+__pycache__/
+.pytest_cache/
+
+# Output of pytest unit tests
+**/results.json
+
+
+# Virtual environment directories
+/.venv
+/env
+/venv
